@@ -1,1 +1,1 @@
-# js-dom-projects
+# Javascript DOM Projects
