@@ -11,7 +11,5 @@ closeBtn.addEventListener('click', () => {
 });
 
 window.addEventListener('click', (e) => {
-    console.log('target ', e.target)
-    if(e.target === modalContainer)
-        modalContainer.style.display = 'none';
+    if(e.target === modalContainer) modalContainer.style.display = 'none';
 });
