@@ -3,3 +3,4 @@
 1. Random Quote Generator
 2. Custom Modal
 3. Accordian (FAQ)
+4. Stop watch
