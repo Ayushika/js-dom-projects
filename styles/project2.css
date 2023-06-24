@@ -25,6 +25,8 @@ body {
     padding: 20px;
     box-shadow: 0 0 3px black;
     transition: .5s;
+    cursor: pointer;
+    text-align: center;
 }
 
 #open-btn:hover {
@@ -41,7 +43,7 @@ body {
     justify-content: space-between;
     align-items: center;
     width: 200px;
-    height: 100px;
+    height: 75px;
     padding: 10px 15px;
     border-radius: 5px;
     transform: translate(-50%, -50%);
